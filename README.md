@@ -16,7 +16,7 @@ Hackattic challenges are really good if you were away from coding for a while an
 - [X] Brute force zip (15 pts) - [Link](https://hackattic.com/challenges/brute_force_zip)
 - [X] Mini Miner (15 pts) - [Link](https://hackattic.com/challenges/mini_miner)
 - [X] Password Hashing (15 pts) - [Link](https://hackattic.com/challenges/password_hashing)
-- [ ] Collision Course (15 tps) - [Link](https://hackattic.com/challenges/collision_course)
+- [X] Collision Course (15 tps) - [Link](https://hackattic.com/challenges/collision_course)
 - [ ] Jotting JWTs (20 pts) - [Link](https://hackattic.com/challenges/jotting_jwts)
 - [ ] Tales of SSL (25 pts) - [Link](https://hackattic.com/challenges/tales_of_ssl)
 - [ ] Dockerized Solutions (30 pts) - [Link](https://hackattic.com/challenges/dockerized_solutions)
