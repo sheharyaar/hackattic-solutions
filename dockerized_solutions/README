@@ -1,0 +1,2 @@
+1. Use ngrok and replace the url in the source
+2. Run `docker compose up` before running the program
