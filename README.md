@@ -20,7 +20,7 @@ Hackattic challenges are really good if you were away from coding for a while an
 - [X] Jotting JWTs (20 pts) - [Link](https://hackattic.com/challenges/jotting_jwts)
 - [X] Tales of SSL (25 pts) - [Link](https://hackattic.com/challenges/tales_of_ssl)
 - [X] Dockerized Solutions (30 pts) - [Link](https://hackattic.com/challenges/dockerized_solutions)
-- [ ] Websocket Chit Chat (30 pts) - [Link](https://hackattic.com/challenges/websocket_chit_chat)
+- [X] Websocket Chit Chat (30 pts) - [Link](https://hackattic.com/challenges/websocket_chit_chat)
 - [ ] Hosting Git (30 pts) - [Link](https://hackattic.com/challenges/hosting_git)
 - [ ] Touch-Tone Dialing (35 pts) - [Link](https://hackattic.com/challenges/touch_tone_dialing)
 - [ ] Basic Face Detection (35 pts) - [Link](https://hackattic.com/challenges/touch_tone_dialing)
